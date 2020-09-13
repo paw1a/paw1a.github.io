@@ -1,0 +1,42 @@
+.container {
+    margin: auto;
+    width: auto;
+    padding: 30px;
+}
+
+.number {
+    background-color: #f1f3f4;
+    border: none;
+}
+
+.number:hover {
+    background-color: #c9ccce;
+}
+
+.action:hover, 
+#AC:hover, 
+#equal:hover {
+    background-color: #b9bbc0;
+}
+
+.action, #AC, #equal {
+    background-color: #dfe1e5;
+    border: none;
+}
+
+input {
+    width: 60px;
+    padding: 7px;
+    border-radius: 5px;
+    outline: none;
+}
+
+.text {
+    width: 233px; 
+    margin-left: 3px;
+    border: #b4acac 2px solid;
+}
+
+.text:hover {
+    border: 2px solid rgb(125, 124, 129);
+}
